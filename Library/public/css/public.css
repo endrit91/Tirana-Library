@@ -1,0 +1,132 @@
+#top_container {
+          background-image: url("/Library/public/img/kzvmepyfijs-dustin-lee.jpg");
+          width:100%;
+          background-size: cover;
+
+
+        }
+
+        #top_row{
+          margin-top: 50px;
+          text-align: center;
+          font-size:;
+        }
+        #top_row h1{
+          font-size: ;
+        }
+        .search_margin_top{
+          margin-top: 5px;
+        }
+        .center {
+          text-align: center;
+        }
+        #form_margin_top {
+          margin-top: 100px;
+        }
+
+
+        h1.statement, h2, h4, p.lead, label{
+          color: #e9f0f2;  
+
+                 }
+        .table_style {
+          text-align: left;
+          background-color: white;
+        }
+
+.statement_block{
+  text-align: center;
+  margin-top: 20%;
+  padding: 0 10%;
+    
+}
+table {
+  width: 90%;
+}
+
+        #footer { 
+  clear: both;
+  height: 2em; margin: 0px; padding: 5em; 
+  text-align: center; 
+  background: #191c21 ;  color: #D4E6F4;
+}
+
+        .error { color: #8D0D19; border: 2px solid #8D0D19;
+margin: 1em; padding: 1em; 
+}
+.error ul {
+  padding-left: 1em; 
+}
+div.message {
+  border: 2px solid #42f4b3;
+  color: #42f4b3; font-weight: bold;
+  margin: 1em 0 ; padding:1em;
+}
+        /* Navigation */
+#navigation { 
+  float: left;
+  width: ; height: 100%; 
+  margin-top: 100px; 
+  margin-left: 0px;
+  padding: 0px; 
+  color: #4d4d4d; background: ;
+
+}
+#navigation a { color: #4d4d4d; text-decoration: none; }
+#navigation a:hover { color: #FFFFFF; background-color: #42e8f4; }
+
+ 
+
+
+
+ul.menu { 
+  margin: 1em 0; padding-left: 0; list-style: none;
+
+}
+
+
+.menu_button {
+display: block;
+background-color: #f2f2f2 ;
+max-width: 100%;
+pointer-events: pointer;
+font-weight: bold;
+font-size: 14px;
+padding: 7px;
+margin-bottom: 2px;
+
+
+}
+
+
+ul.pages { padding-left: 3em; list-style: none; font-weight: normal; }
+.selected_menu a{
+  background-color: #DCDCDC;
+   
+}
+.selected_page a{
+  background-color: #C0C0C0;
+   
+}
+
+
+
+body {
+overflow-x: hidden;
+}
+.hidden-thing {
+position: absolute;
+left: 100%;
+width: 50px;
+height: 50px;
+opacity: 0;
+}
+
+.my_account_button{
+
+  margin-top: 10px;
+
+}
+.log_button{
+  margin-top: 10px;
+}
